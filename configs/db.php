@@ -6,8 +6,8 @@
  */
 
 return [
-    'HOSTNAME' => '192.168.1.179',
-    'USERNAME' => 'web',
-    'PASSWORD' => 'xwwebBuyKV6r3>',
-    'DATABASE' => 'xw_sdk_cps'
+    'HOSTNAME' => '127.0.0.1',
+    'USERNAME' => 'root',
+    'PASSWORD' => '123456',
+    'DATABASE' => 'db_test'
 ];
